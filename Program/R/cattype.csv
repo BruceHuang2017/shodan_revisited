@@ -1,0 +1,25 @@
+category,count,t
+BMS,3302,new
+Embedded Web Server,209,new
+HAN,0,new
+HAN/BMS,28021,new
+Historian,29,new
+HMI,376,new
+PAC,6633,new
+PLC,1217,new
+Protocol Bridge,242,new
+RTU,923,new
+SCADA,17,new
+Telemetry,221,new
+BMS,3222,old
+Embedded Web Server,154,old
+HAN,3,old
+HAN/BMS,3051,old
+Historian,1,old
+HMI,260,old
+PAC,106,old
+PLC,49,old
+Protocol Bridge,26,old
+RTU,587,old
+SCADA,25,old
+Telemetry,5,old

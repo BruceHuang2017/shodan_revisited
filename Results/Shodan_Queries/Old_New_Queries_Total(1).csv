@@ -1,0 +1,30 @@
+query name,new,old,new-old,(new-old)/old,log,Cat,note,old note
+Allen-Bradley,5461,23,5438,236.434783,2.373711,PAC,,
+WAGO,172,2,170,85,1.929419,Telemetry,,
+Simatic+S7,929,13,916,70.461538,1.847952,PLC,,Affected by Stuxnet
+eiPortal,29,1,28,28,1.447158,Historian,,
+Modicon+M340+CPU,69,3,66,22,1.342423,Protocol Bridge,,
+SIMATIC+NET,221,13,208,16,1.20412,HMI,,Affected by Stuxnet
+A850+Telemetry+Gateway,49,3,46,15.333333,1.185637,Telemetry,,
+SoftPLC,1172,80,1092,13.65,1.135133,PAC,,Eastern Europe
+Simatic+HMI,108,9,99,11,1.041393,HMI,,Affected by Stuxnet
+Niagara+Web+Server,27248,2794,24454,8.752326,0.942124,HAN/BMS,,Web Server for EMS/BMS
+Modbus+Bridge,103,12,91,7.583333,0.87986,Protocol Bridge,,IP to Modbus
+ioLogik,288,36,252,7,0.845098,PLC,,Small Vender
+ModbusGW,70,11,59,5.363636,0.729459,Protocol Bridge,,
+Powerlink,773,257,516,2.007782,0.302717,HAN/BMS,,
+i.LON,3302,1342,1960,1.460507,0.164504,BMS,,Primarily Energy
+ABB+Webmodule,7,3,4,1.333333,0.124939,Embedded Web Server,,
+Cimetrics+Eplus+Web+Server,11,6,5,0.833333,-0.079181,Embedded Web Server,sligtly increase,
+EnergyICT,920,585,335,0.57265,-0.242111,RTU,sligtly increase,Primarily Energy
+RTU560,3,2,1,0.5,-0.30103,RTU,sligtly increase,Web Interface
+EIG+Embedded+Web+Server,143,104,39,0.375,-0.425969,Embedded Web Server,sligtly increase,
+Reliance+4+Control+Server,13,10,3,0.3,-0.522879,SCADA,sligtly increase,
+HMS+AnyBus-S+WebServer,48,40,8,0.2,-0.69897,Embedded Web Server,sligtly increase,
+CIMPLICITY,39,90,-51,-0.566667,,HMI,decrease,Zero Config Web View
+RTS+Scada,4,15,-11,-0.733333,,SCADA,decrease,Runs on FreeBSD
+/BroadWeb/,8,148,-140,-0.945946,,HMI,decrease,Known Vulnerabilities
+TAC/Xenta,0,1880,-1880,-1,,BMS,clear,Self Certs for HTTPS
+NovaTech+HTTPD,0,1,-1,-1,,Embedded Web Server,clear,Substation Automation
+webSCADA-Modbus,0,3,-3,-1,,HAN,clear,
+CitectSCADA,0,3,-3,-1,,PCS,clear,

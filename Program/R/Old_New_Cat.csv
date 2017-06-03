@@ -1,0 +1,14 @@
+Name,New,Old
+BMS,3302,3222
+Embedded Web Server,209,154
+HAN,0,3
+HAN/BMS,28021,3051
+Historian,29,1
+HMI,376,260
+PAC,6633,103
+PCS,0,3
+PLC,1217,49
+Protocol Bridge,242,26
+RTU,923,587
+SCADA,17,25
+Telemetry,221,5
